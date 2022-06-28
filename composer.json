@@ -23,7 +23,7 @@
         "php": ">=5.3.0",
         "ext-soap": "*",
         "ext-curl": "*",
-        "besimple/soap-common": "dev-master",
+        "besimple/soap-common": "0.2.x-dev",
         "ass/xmlsecurity": "~1.0"
     },
     "require-dev": {
